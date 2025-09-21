@@ -79,4 +79,3 @@ artifacts/
 
 - Works offline with FAISS; can swap to Pinecone with minimal changes.
 
-demo Link:-https://drive.google.com/file/d/1WKBZueSDq0iFPxqGbmxRidCAcXeOI5bi/view?usp=sharing
