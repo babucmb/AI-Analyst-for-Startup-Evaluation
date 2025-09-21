@@ -77,4 +77,6 @@ artifacts/
 - Strict evidence linking is enforced; chunks are included by id in outputs.
 - Models are lightweight (SentenceTransformers + Logistic Regression by default).
 
-- Works offline with FAISS; can swap to Pinecone with minimal changes. 
+- Works offline with FAISS; can swap to Pinecone with minimal changes.
+
+demo Link:-https://drive.google.com/file/d/1WKBZueSDq0iFPxqGbmxRidCAcXeOI5bi/view?usp=sharing
